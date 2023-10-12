@@ -1,0 +1,31 @@
+.main{
+    border: 2px solid blue;
+    width: 200px;
+    margin:0 auto;
+    color: aqua;
+    background-color: yellowgreen;
+}
+.result{
+    widht: 100%;
+    background-color: skyblue;
+}
+.type{
+    width: 100%;
+    margin-top: 10px;
+    background-color: skyblue;
+}
+.btn{
+    background-color: skyblue;
+    width: 45px;
+    margin:1px;
+}
+.halfbtn{
+    width: 120px;
+    background-color: skyblue;
+}
+#results{
+    width: 97%;
+}
+.kl{
+    background-color: skyblue;
+}
